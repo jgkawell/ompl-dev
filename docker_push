@@ -1,0 +1,4 @@
+#!/bin/bash
+
+docker push jgkawell/ompl:base
+docker push jgkawell/ompl:base-nvidia
